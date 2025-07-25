@@ -23,5 +23,5 @@ To fix that, we’re building a simple dashboard that pulls together all the caf
 With this information at hand, H Café can run promotions where they really matter—whether it’s pushing a slow‑moving pastry, offering a mid‑afternoon deal, or thanking regulars with perks—so the café’s revenue can finally catch up with its customer traffic.
 ## Live Dashboard
 
-- https://www.github.com/octokatherine
+- https://app.powerbi.com/groups/me/reports/2d1ebf86-71d7-47f7-ae8e-b3f4b6fe4cc4/7a7bb0801d4b64d22987?ctid=4200fdc3-d4c5-47a2-8006-39bbc5eeca72&experience=power-bi
 
