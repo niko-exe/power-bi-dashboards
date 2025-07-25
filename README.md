@@ -1,5 +1,6 @@
 
-![Logo]([https://github.com/niko-exe/power-bi-dashboards/blob/main/reduced.jpg](https://github.com/niko-exe/power-bi-dashboards/blob/main/reduced1.jpg))
+![Logo](https://github.com/niko-exe/power-bi-dashboards/blob/main/reduced1.jpg)
+
 
 # Business Insights 
 
