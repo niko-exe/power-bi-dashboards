@@ -1,5 +1,7 @@
 
-![Logo](https://github.com/niko-exe/power-bi-dashboards/blob/main/reduced2.jpg)
+<p align="center">
+  <img src="https://github.com/niko-exe/power-bi-dashboards/blob/main/reduced2.jpg" alt="Logo" />
+</p>
 
 
 # Business Insights 
