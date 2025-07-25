@@ -1,5 +1,5 @@
 
-![Logo]([https://github.com/niko-exe/power-bi-dashboards/blob/main/intro%20file.jpg](https://github.com/niko-exe/power-bi-dashboards/blob/main/file%20(1).svg))
+![Logo](https://github.com/niko-exe/power-bi-dashboards/blob/main/intro%20file.jpg)
 
 # Business Insights 
 
