@@ -1,6 +1,6 @@
 
 [<p align="center">
-  <img src="https://github.com/niko-exe/power-bi-dashboards/blob/main/introfile.jpg" alt="Logo" width="400"/>
+  <img src="https://github.com/niko-exe/power-bi-dashboards/blob/main/intro%20file.jpg" alt="Logo" width="400"/>
 </p>](https://github.com/niko-exe/power-bi-dashboards/blob/main/intro%20file.jpg)
 
 
